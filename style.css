@@ -4,33 +4,37 @@
 }
 body{
     width: 100%;
-    background-image: url(img/Antwerpen2022/roxoazul2.png);
+    background-image: url(img/Antwerpen2022/fundotop.jpg);
     background-repeat: no-repeat;
     position: center;
     background-size: cover;
 }
 .topo{
-    width: 100%;
-    background-color: #ffffff;
-    display: inline-block;   
+    background-image: url(img/Antwerpen2022/wallpaperstop5.png);
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: cover;
+    width: 100%;    
+    display: inline-block;    
 }
-.topoimg{
-    width: 180px;    
+.topoimg{  
+    filter: invert(100%);  
+    margin-left: 15px;
+    width: 180px;      
 }
 .menu{
     display: inline-block;
-    text-align: center;   
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
     margin: 25px auto 25px auto;    
 }
 tr{ 
-    color: white;
+    font-size: 18px;
+    color: #ffffff;
     border-radius: 30px 3px;    
-    background-color: #7b00ac;
     padding: 10px 30px;
     display: inline-block;
     margin-left: 10px;
-    margin-right: 10px;
+    margin-right: 10px;    
 }
 .stickergoldteam{   
     padding: 20px; 
@@ -45,7 +49,7 @@ tr{
     display: inline-block;
 }
 .img{
-    background-image: url(img/Antwerpen2022/lilaswall.jpg);
+    background-image: url(img/Antwerpen2022/cardwallg6.jpg);
     background-repeat: no-repeat;
     position: center;
     background-size: cover;
@@ -66,7 +70,7 @@ img{
     font-family: Arial, Helvetica, sans-serif;    
     color: #2c2c2c;
     width: max-content;    
-    padding: 8px 24px;
+    padding: 10px 30px;
     border-radius: 30px 3px;
     text-shadow: 0px 0px 1px #707070;
     box-shadow: 2px 2px 3px #272400;    
