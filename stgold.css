@@ -1,0 +1,9 @@
+.img{
+    background-image: url(img/Antwerpen2022/wallExotic.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;      
+    margin: auto;
+    height: 550px; 
+}

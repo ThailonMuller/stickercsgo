@@ -1,0 +1,31 @@
+.linkstnormal a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+.topo{
+    background-image: url(img/Antwerpen2022/wallpaperstop5.png);
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: cover;
+    width: 100%;    
+    display: inline-block;
+    color: #fff;    
+}
+.logocsimg{  
+    filter: invert(100%);  
+    margin-left: 15px;
+    width: 180px;      
+}
+.menu{
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+    margin: 25px auto 25px auto;    
+}
+tr{ 
+    font-size: 18px;        
+    padding: 10px 30px;
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;    
+}
