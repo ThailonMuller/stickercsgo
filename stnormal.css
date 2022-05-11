@@ -29,21 +29,60 @@
     background-size: cover;
 }
 #nameteamastralis{
-    background-image: url(img/Antwerpen2022/aut/astralis/wall-astralis3.png);
+    background-image: url(img/Antwerpen2022/aut/astralis/nameteamastralis.png);
     background-position: center;
     background-repeat: no-repeat;   
     background-size: cover;
 }
+#nameteambad{
+    background-image: url(img/Antwerpen2022/aut/badnewseagles/nameteambad.jpg);
+    background-position: center;
+    background-repeat: no-repeat;   
+    background-size: cover;
+}
+#nameteambig{
+    background-image: url(img/Antwerpen2022/aut/big/imgbig.png);
+    background-position: center;
+    background-repeat: no-repeat;   
+    background-size: cover;
+}
+#nameteamcloud9{
+    background-image: url(img/Antwerpen2022/aut/cloud9/nameteamcloud92.jpg);
+    background-position: center;
+    background-repeat: no-repeat;   
+    background-size: cover;
+}
+
+
+
 /* WALLPAPER TEAM */
 
-#imgastralis{
-    background-image: url(img/Antwerpen2022/aut/astralis/wall-astralis.jpg);
+#img9z{
+    background-image: url(img/Antwerpen2022/aut/9z/wall-9z.jpg);
     background-repeat: no-repeat;   
     background-size: cover;
     background-position: center;
 }
-#img9z{
-    background-image: url(img/Antwerpen2022/aut/9z/wall-9z.jpg);
+#imgastralis{
+    background-image: url(img/Antwerpen2022/aut/astralis/imgastralis.jpg);
+    background-repeat: no-repeat;   
+    background-size: cover;
+    background-position: center;
+}
+#imgbad{
+    background-image: url(img/Antwerpen2022/aut/badnewseagles/imgbad.jpg);
+    background-repeat: no-repeat;   
+    background-size: cover;
+    background-position: center;
+}
+#imgbig{
+    background-image: url(img/Antwerpen2022/aut/big/BIG-Logo.jpg);
+    background-repeat: no-repeat;   
+    background-size: cover;
+    background-position: center;
+}
+#imgcloud9{
+    background-image: url(img/Antwerpen2022/aut/cloud9/imgcloud93.png);
     background-repeat: no-repeat;   
     background-size: cover;
     background-position: center;
