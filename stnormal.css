@@ -15,6 +15,15 @@
 .nameteam h1{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 24px;
+    background-image: url(img/Antwerpen2022/nameteamwall.png);
+    background-position: center;
+    background-repeat: no-repeat;   
+    background-size: cover;
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 6px;
+    border-radius: 3px;
     color: #ffffff;
     text-align: center;
     margin-bottom: 20px;
@@ -52,11 +61,47 @@
     background-repeat: no-repeat;   
     background-size: cover;
 }
+#nameteamcomplexity{
+    background-image: url(img/Antwerpen2022/aut/complexity/nameteamcomplexity.jpg);
+    background-position: center;
+    background-repeat: no-repeat;   
+    background-size: cover;    
+}
+#nameteamcopenhagen{
+    background-image: url(img/Antwerpen2022/aut/copenhagen/nameteamcopenhagen.png);
+    background-position: center;
+    background-repeat: no-repeat;   
+    background-size: cover;    
+}
+#nameteamence{
+    background-image: url(img/Antwerpen2022/aut/ence/nameteamence.jpg);
+    background-position: center;
+    background-repeat: no-repeat;   
+    background-size: cover;    
+}
+#nameteameternalfire{
+    background-image: url(img/Antwerpen2022/aut/eternalfire/nameteameternalfire.jpg);
+    background-position: center;
+    background-repeat: no-repeat;   
+    background-size: cover;    
+}
+#nameteamfaze{
+    background-image: url(img/Antwerpen2022/aut/faze/namteamfaze.png);
+    background-position: center;
+    background-repeat: no-repeat;   
+    background-size: cover;    
+}
+
+
+
+
+
+
+
 
 
 
 /* WALLPAPER TEAM */
-
 #img9z{
     background-image: url(img/Antwerpen2022/aut/9z/wall-9z.jpg);
     background-repeat: no-repeat;   
@@ -86,4 +131,34 @@
     background-repeat: no-repeat;   
     background-size: cover;
     background-position: center;
+}
+#imgcomplexity{
+    background-image: url(img/Antwerpen2022/aut/complexity/imgcomplexity.jpg);
+    background-repeat: no-repeat;   
+    background-size: cover;
+    background-position: center;    
+}
+#imgcopenhagen{
+    background-image: url(img/Antwerpen2022/aut/copenhagen/imgcopenhagen.png);
+    background-repeat: no-repeat;   
+    background-size: cover;
+    background-position: center;    
+}
+#imgence{
+    background-image: url(img/Antwerpen2022/aut/ence/imgence.jpg);
+    background-repeat: no-repeat;   
+    background-size: cover;
+    background-position: center;    
+}
+#imgeternalfire{
+    background-image: url(img/Antwerpen2022/aut/eternalfire/imgeternalfire.png);
+    background-repeat: no-repeat;   
+    background-size: cover;
+    background-position: center;    
+}
+#imgfaze{
+    background-image: url(img/Antwerpen2022/aut/faze/imgfaze.png);
+    background-repeat: no-repeat;   
+    background-size: cover;
+    background-position: center;    
 }
