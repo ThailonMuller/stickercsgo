@@ -91,6 +91,18 @@
     background-repeat: no-repeat;   
     background-size: cover;    
 }
+#nameteamforze{
+    background-image: url(img/Antwerpen2022/aut/forze/nameteamforze.jpg);
+    background-position: center;
+    background-repeat: no-repeat;   
+    background-size: cover;    
+}
+#nameteamfuria{
+    background-image: url(img/Antwerpen2022/aut/furia/nameteamfuria.jpg);
+    background-position: center;
+    background-repeat: no-repeat;   
+    background-size: cover;    
+}
 
 
 
@@ -158,6 +170,18 @@
 }
 #imgfaze{
     background-image: url(img/Antwerpen2022/aut/faze/imgfaze.png);
+    background-repeat: no-repeat;   
+    background-size: cover;
+    background-position: center;    
+}
+#imgforze{
+    background-image: url(img/Antwerpen2022/aut/forze/imgforze.jpg);
+    background-repeat: no-repeat;   
+    background-size: cover;
+    background-position: center;    
+}
+#imgfuria{
+    background-image: url(img/Antwerpen2022/aut/furia/imgfuria2.jpg);
     background-repeat: no-repeat;   
     background-size: cover;
     background-position: center;    
