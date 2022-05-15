@@ -26,7 +26,7 @@ img{
     margin-top: 5px;
     display: inline-block;
 }
-.infotop{
+.tagname{
     background-image: url(img/Antwerpen2022/dourado.png);
     background-repeat: no-repeat;   
     background-size: cover;
@@ -35,14 +35,12 @@ img{
     font-size: 16px;
     color: #3a3a3a;
     text-align: center;
-    margin-top: 0px;  
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto 0 auto;
     width: 300px;
     padding: 4px;
     border-radius: 20px 20px 0px 0px;
 }
-.infobot{    
+.infocard{    
     background-color: #7b00ac;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 16px;

@@ -11,34 +11,29 @@
     background-repeat: no-repeat;   
     background-size: cover;           
     box-shadow: 0px 3px 3px #21002e;
-    margin-bottom: 30px;       
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto 30px auto;
     width: 100%;    
     padding: 100px 0px;
-    border-radius: 10px;    
+    border-radius: 10px;       
 }
-.nameteam h1{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 24px;
+.nameteam h1{    
     background-image: url(img/Antwerpen2022/nameteamwall.png);
     background-position: center;
     background-repeat: no-repeat;   
     background-size: cover;
     width: max-content;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 6px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 24px;
+    margin: -60px auto 20px auto;    
+    padding: 6px 24px;
     border-radius: 3px;
-    color: #ffffff;
+    color: #fff;
     text-align: center;
-    margin-bottom: 20px;
-    margin-top: -60px;
 }
 
 /* NAME TEAM */
 #nameteam9z{
-    background-image: url(img/Antwerpen2022/roxoazul2.png);    
+    background-image: url(img/Antwerpen2022/roxoazul2.png);
 }
 #nameteamastralis{
     background-image: url(img/Antwerpen2022/aut/astralis/nameteamastralis.png);    
@@ -73,12 +68,24 @@
 #nameteamfuria{
     background-image: url(img/Antwerpen2022/aut/furia/nameteamfuria.jpg);      
 }
+#nameteamg2{
+    background-image: url(img/Antwerpen2022/tempwall.jpg);      
+}
+#nameteamheroic{
+    background-image: url(img/Antwerpen2022/tempwall.jpg);      
+}
+#nameteamihc{
+    background-image: url(img/Antwerpen2022/tempwall.jpg);      
+}
+
+
+
 
 
 
 /* WALLPAPER TEAM */
 #img9z{
-    background-image: url(img/Antwerpen2022/aut/9z/wall-9z.jpg);    
+    background-image: url(img/Antwerpen2022/aut/9z/wall-9z2.jpg);        
 }
 #imgastralis{
     background-image: url(img/Antwerpen2022/aut/astralis/imgastralis.jpg);   
@@ -112,4 +119,13 @@
 }
 #imgfuria{
     background-image: url(img/Antwerpen2022/aut/furia/imgfuria2.jpg);
+}
+#imgg2{
+    background-image: url(img/Antwerpen2022/tempimg.jpg);
+}
+#imgheroic{
+    background-image: url(img/Antwerpen2022/tempimg.jpg);
+}
+#imgihc{
+    background-image: url(img/Antwerpen2022/tempimg.jpg);
 }

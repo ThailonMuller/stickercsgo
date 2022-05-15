@@ -5,6 +5,6 @@
 body{
     width: 100%;
     background-image: url(img/Antwerpen2022/fundotop.jpg);
-    background-repeat: repeat-y;    
-    background-size: cover;
+    background-repeat: repeat-y;
+    background-size: auto;    
 }
