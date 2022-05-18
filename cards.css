@@ -25,10 +25,7 @@ img{
     margin: 5px auto 0px auto;    
     display: inline-block;
 }
-.tagname{
-    background-image: url(img/Antwerpen2022/dourado.png);
-    background-repeat: no-repeat;   
-    background-size: cover;
+.tagname{   
     box-shadow: 0px 3px 4px #21002e;    
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 16px;
@@ -37,6 +34,11 @@ img{
     margin: 0 auto 0 auto;    
     padding: 4px;
     border-radius: 20px 20px 0px 0px;
+}
+#tagnamenormal{
+    background-image: url(img/Antwerpen2022/teamtagnormal.png);
+    background-repeat: no-repeat;   
+    background-size: cover;
 }
 .infocard{    
     background-color: #7b00ac;
