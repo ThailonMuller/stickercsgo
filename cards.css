@@ -13,17 +13,16 @@
     text-shadow: 0px 0px 1px #707070;
     box-shadow: 2px 2px 3px #272400;    
 }
-img{
-    width: 300px;
+img{    
+    max-width: 255px;      
 }
 .stickergoldteam{   
     padding: 20px; 
     text-align: center;    
 }
 .quadro{
-    width: max-content;
-    margin: auto;   
-    margin-top: 5px;
+    max-width: 255px;    
+    margin: 5px auto 0px auto;    
     display: inline-block;
 }
 .tagname{
@@ -35,8 +34,7 @@ img{
     font-size: 16px;
     color: #3a3a3a;
     text-align: center;
-    margin: 0 auto 0 auto;
-    width: 300px;
+    margin: 0 auto 0 auto;    
     padding: 4px;
     border-radius: 20px 20px 0px 0px;
 }
@@ -46,7 +44,7 @@ img{
     font-size: 16px;
     color: #f5ddff;
     text-align: center;
-    margin-top: 100px;
+    margin-top: 30px;
     margin-left: auto;
     margin-right: auto;
     width: max-content;

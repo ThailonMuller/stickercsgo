@@ -2,9 +2,9 @@
     background-repeat: no-repeat;   
     background-size: cover;
     background-position: center;        
-    border-radius: 20px;      
+    border-radius: 20px;   
     margin: auto;
-    height: 550px; 
+    min-height: 410px;    
 }
 .nameteam{
     background-position: center;
@@ -12,7 +12,8 @@
     background-size: cover;           
     box-shadow: 0px 3px 3px #21002e;
     margin: 0 auto 30px auto;
-    width: 100%;    
+    max-width: 1920px;
+    min-width: 380px;    
     padding: 100px 0px;
     border-radius: 10px;       
 }
@@ -31,9 +32,9 @@
     text-align: center;
 }
 
-/* NAME TEAM */
+/* NAME TEAM BACKGROUND */
 #nameteam9z{
-    background-image: url(img/Antwerpen2022/roxoazul2.png);
+    background-image: url(img/Antwerpen2022/aut/9z/wall-9z2.jpg);
 }
 #nameteamastralis{
     background-image: url(img/Antwerpen2022/aut/astralis/nameteamastralis.png);    
@@ -45,7 +46,7 @@
     background-image: url(img/Antwerpen2022/aut/big/imgbig.png);    
 }
 #nameteamcloud9{
-    background-image: url(img/Antwerpen2022/aut/cloud9/nameteamcloud92.jpg);    
+    background-image: url(img/Antwerpen2022/aut/cloud9/nameteamcloud93.jpg);    
 }
 #nameteamcomplexity{
     background-image: url(img/Antwerpen2022/aut/complexity/nameteamcomplexity.jpg);        
@@ -69,63 +70,43 @@
     background-image: url(img/Antwerpen2022/aut/furia/nameteamfuria.jpg);      
 }
 #nameteamg2{
-    background-image: url(img/Antwerpen2022/tempwall.jpg);      
+    background-image: url(img/Antwerpen2022/aut/g2/nameteamg2.jpg);      
 }
 #nameteamheroic{
-    background-image: url(img/Antwerpen2022/tempwall.jpg);      
+    background-image: url(img/Antwerpen2022/aut/heroic/nameteamheroic.png);      
 }
 #nameteamihc{
+    background-image: url(img/Antwerpen2022/aut/ihc/nameteamihc.jpg);      
+}
+#nameteamimperial{
+    background-image: url(img/Antwerpen2022/aut/imperial/nameteamimperial.png);      
+}
+#nameteamliquid{
+    background-image: url(img/Antwerpen2022/aut/liquid/nameteamliquid.png);
+}
+#nameteammibr{
+    background-image: url(img/Antwerpen2022/aut/mibr/nameteammibr.jpg);      
+}
+#nameteamnavi{
+    background-image: url(img/Antwerpen2022/aut/navi/nameteamnavi.png);      
+}
+#nameteamninjas{
+    background-image: url(img/Antwerpen2022/aut/ninjas/nameteamnip.jpg);      
+}
+#nameteamoutsiders{
+    background-image: url(img/Antwerpen2022/aut/outsiders/nameteamoutsiders.jpg);      
+}
+#nameteamrenegades{
+    background-image: url(img/Antwerpen2022/aut/renegades/nameteamrenegades.png);      
+}
+#nameteamspirit{
+    background-image: url(img/Antwerpen2022/tempwall.jpg);      
+}
+#nameteamvitality{
     background-image: url(img/Antwerpen2022/tempwall.jpg);      
 }
 
-
-
-
-
-
 /* WALLPAPER TEAM */
-#img9z{
-    background-image: url(img/Antwerpen2022/aut/9z/wall-9z2.jpg);        
-}
-#imgastralis{
-    background-image: url(img/Antwerpen2022/aut/astralis/imgastralis.jpg);   
-}
-#imgbad{
-    background-image: url(img/Antwerpen2022/aut/badnewseagles/imgbad.jpg);   
-}
-#imgbig{
-    background-image: url(img/Antwerpen2022/aut/big/BIG-Logo.jpg);
-}
-#imgcloud9{
-    background-image: url(img/Antwerpen2022/aut/cloud9/imgcloud93.png);
-}
-#imgcomplexity{
-    background-image: url(img/Antwerpen2022/aut/complexity/imgcomplexity.jpg);
-}
-#imgcopenhagen{
-    background-image: url(img/Antwerpen2022/aut/copenhagen/imgcopenhagen.png);
-}
-#imgence{
-    background-image: url(img/Antwerpen2022/aut/ence/imgence.jpg);
-}
-#imgeternalfire{
-    background-image: url(img/Antwerpen2022/aut/eternalfire/imgeternalfire.png);
-}
-#imgfaze{
-    background-image: url(img/Antwerpen2022/aut/faze/imgfaze.png);
-}
-#imgforze{
-    background-image: url(img/Antwerpen2022/aut/forze/imgforze.jpg);
-}
-#imgfuria{
-    background-image: url(img/Antwerpen2022/aut/furia/imgfuria2.jpg);
-}
-#imgg2{
-    background-image: url(img/Antwerpen2022/tempimg.jpg);
-}
-#imgheroic{
-    background-image: url(img/Antwerpen2022/tempimg.jpg);
-}
-#imgihc{
-    background-image: url(img/Antwerpen2022/tempimg.jpg);
+#imgcards{
+    background-image: url(img/Antwerpen2022/fundo\ holografico.png);        
 }
