@@ -54,6 +54,11 @@ img{
     background-repeat: no-repeat;   
     background-size: cover;
 }
+#tagnamegliter{
+    background-image: url(img/Antwerpen2022/teamtagliter.png);
+    background-repeat: no-repeat;   
+    background-size: cover;
+}
 .infocard{    
     background-color: #7b00ac;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -66,5 +71,4 @@ img{
     width: max-content;
     padding: 4px;
     border-radius: 4px;
-       
 }
