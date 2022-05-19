@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    width: 100%;
+    background-image: url(img/Antwerpen2022/fundotop.jpg);
+    background-repeat: repeat-y;
+    background-position: center;
+    background-size: auto;    
+}

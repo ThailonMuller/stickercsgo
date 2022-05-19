@@ -1,8 +1,5 @@
-.gruposticker{
-    background-image: url(img/Antwerpen2022/dourado.png);
-    background-repeat: no-repeat;   
+.gruposticker{    
     position: center;
-    background-size: cover;
     margin-top: 10px;
     margin-bottom: 20px;
     font-family: Arial, Helvetica, sans-serif;    
@@ -12,6 +9,18 @@
     border-radius: 30px 3px;
     text-shadow: 0px 0px 1px #707070;
     box-shadow: 2px 2px 3px #272400;    
+}
+/*NOME TAG PLAYERS*/
+#grupostickerstnormal{
+    background-image: url(img/Antwerpen2022/teamtagnormal.png);
+    background-repeat: no-repeat;  
+    background-size: cover;
+}
+/*NOME TAG TIMES*/
+#grupostickerstteams{
+    background-image: url(img/Antwerpen2022/teamtaggold.png);
+    background-repeat: no-repeat;  
+    background-size: cover;
 }
 img{    
     max-width: 255px;      
@@ -37,6 +46,11 @@ img{
 }
 #tagnamenormal{
     background-image: url(img/Antwerpen2022/teamtagnormal.png);
+    background-repeat: no-repeat;   
+    background-size: cover;
+}
+#tagnamegold{
+    background-image: url(img/Antwerpen2022/teamtaggold.png);
     background-repeat: no-repeat;   
     background-size: cover;
 }

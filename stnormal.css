@@ -7,9 +7,9 @@
     min-height: 410px;    
 }
 .nameteam{
-    background-position: center;
-    background-repeat: no-repeat;   
-    background-size: cover;           
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;              
     box-shadow: 0px 3px 3px #21002e;
     margin: 0 auto 30px auto;
     max-width: 1920px;
@@ -19,9 +19,9 @@
 }
 .nameteam h1{    
     background-image: url(img/Antwerpen2022/nameteamwall.png);
-    background-position: center;
-    background-repeat: no-repeat;   
+    background-repeat: no-repeat; 
     background-size: cover;
+    background-position: center;   
     width: max-content;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 24px;
@@ -108,5 +108,5 @@
 
 /* WALLPAPER TEAM */
 #imgcards{
-    background-image: url(img/Antwerpen2022/fundo\ holografico.png);        
+    background-image: url(img/Antwerpen2022/fundocards.png);        
 }
